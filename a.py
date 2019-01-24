@@ -3,7 +3,7 @@
 
 # Import Computer Vision package - cv2
 from __future__ import print_function
-import cv2
+im
 
 # Import Numerical Python package - numpy as np
 import numpy as np
